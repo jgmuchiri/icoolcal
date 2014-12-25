@@ -1,11 +1,9 @@
 iCoolCal
 
 Created by jgmuchiri
-Copyright (c) 2014
-http://icoolpix.com
-info@icoolpix.com
 
-ABOUT
+
+<strong>ABOUT</strong>
 
 iCoolCal is a customizable php/mysql calendar that utilizes CodeIgniter framework and Arshaw's Fullcalendar plugin. 
 
@@ -13,7 +11,7 @@ iCoolCal is a customizable php/mysql calendar that utilizes CodeIgniter framewor
 
 <a href="http://icoolpix.com/demo/apps/calendar/index.php/calendar" target="_blank">DEMO</a>
 
-INSTALLATION
+<strong>INSTALLATION</strong>
 
 To install iCoolCal, follow the following steps:
 

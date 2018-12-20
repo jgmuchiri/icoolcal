@@ -1,5 +1,3 @@
-#iCoolCal
-
 <strong>ABOUT</strong>
 
 iCoolCal is a customizable php/mysql calendar that utilizes CodeIgniter framework and Arshaw's Fullcalendar plugin. 
